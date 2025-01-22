@@ -1,0 +1,7 @@
+streamlit
+moviepy
+speechrecognition
+transformers
+pyttsx3
+PyPDF2
+pytube3
