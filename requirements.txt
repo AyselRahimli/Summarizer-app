@@ -1,5 +1,7 @@
 streamlit
 moviepy
+numpy
+decorator
 speechrecognition
 transformers
 pyttsx3
